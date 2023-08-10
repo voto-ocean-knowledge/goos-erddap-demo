@@ -1,0 +1,14 @@
+name: goosdemo
+channels:
+  - conda-forge
+dependencies:
+    - jupyterlab
+    - matplotlib
+    - xarray
+    - cartopy
+    - cmocean
+    - jupyterlab_widgets
+    - ipywidgets
+    - tqdm
+    - erddapy
+    - netcdf4
