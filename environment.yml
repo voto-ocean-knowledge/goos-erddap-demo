@@ -12,3 +12,4 @@ dependencies:
     - tqdm
     - erddapy
     - netcdf4
+    - scipy
